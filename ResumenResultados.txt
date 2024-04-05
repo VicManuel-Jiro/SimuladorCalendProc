@@ -1,0 +1,15 @@
+Tipo de calendarizador : Interactivo
+Nombre del Calendarizador: Round Robin
+Numero de Procesos: 3
+Promedio configurado: 1100
+Desviacion Estandar Configurada: 510
+Tiempo de Ejecucion: 5000 ms
+Tiempo de Ejecucion del Simulador: 3544 ms
+
+Procesos:
+|# Proceso|Tiempo de CPU|Bloqueo E/S|Bloqueo Quanto|Tiempo Efectivo de CPU|Veces Bloqueado|Prioridad|
+|    0    |   826(ms)   |  100(ms)  |    50(ms)    |       826(ms)        |      24       |    0    |
+|    1    |  1134(ms)   |  500(ms)  |   100(ms)    |       1134(ms)       |      13       |    9    |
+|    2    |  1584(ms)   |  30(ms)   |    50(ms)    |       1584(ms)       |      76       |    5    |
+
+SE HAN COMPLETADO TODOS LOS PROCESOS.
